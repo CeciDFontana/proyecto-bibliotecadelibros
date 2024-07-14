@@ -1,0 +1,222 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Harry Potter y la camara secreta",
+        "genero": "Fantasia juvenil",
+        "anio_publicacion": "1998",
+        "autor": "J. K. Rowling"
+    },
+    {
+        "codigo": 2,
+        "nombre": "Harry Potter y el prisionero de Azkaban",
+        "genero": "Fantasia juvenil",
+        "anio_publicacion": "1999",
+        "autor": "J. K. Rowling",
+        "anio de publicacion": "1111"
+    },
+    {
+        "codigo": 3,
+        "nombre": "Harry Potter y el caliz de fuego",
+        "genero": "Fantasia juvenil",
+        "anio_publicacion": "2000",
+        "autor": "J. K. Rowling",
+        "anio de publicacion": "1980"
+    },
+    {
+        "codigo": 4,
+        "nombre": "Harry Potter y el prisionero de Azkab",
+        "genero": "Fantasia juvenil",
+        "anio_publicacion": "2003",
+        "autor": "J. K. Rowling"
+    },
+    {
+        "codigo": 5,
+        "nombre": "Harry Potter y el misterio del principe",
+        "genero": "Fantasia juvenil",
+        "anio_publicacion": "2005",
+        "autor": "J. K. Rowling"
+    },
+    {
+        "codigo": 6,
+        "nombre": "pepepepe",
+        "genero": "Fantasia juvenil",
+        "anio_publicacion": "2007",
+        "autor": "J. K. Rowling"
+    },
+    {
+        "codigo": 7,
+        "nombre": "1984",
+        "genero": "Distopia",
+        "anio_publicacion": "1949",
+        "autor": "George Orwell"
+    },
+    {
+        "codigo": 8,
+        "nombre": "Orgullo y prejuicio",
+        "genero": "Novela romantica clasica",
+        "anio_publicacion": "1813",
+        "autor": "Jane Austen",
+        "anio de publicacion": "1990"
+    },
+    {
+        "codigo": 9,
+        "nombre": "pipi",
+        "genero": "Realismo magico",
+        "anio_publicacion": "1967",
+        "autor": "Gabriel Garcia Marquez"
+    },
+    {
+        "codigo": 10,
+        "nombre": "reuuu",
+        "genero": "Fantasia",
+        "anio_publicacion": "1937",
+        "autor": "J.R.R. Tolkien"
+    },
+    {
+        "codigo": 11,
+        "nombre": "El Senor de los Anillos 1: La Comunidad del Anillo",
+        "genero": "Fantasia epica",
+        "anio_publicacion": "1954",
+        "autor": "J.R.R. Tolkien"
+    },
+    {
+        "codigo": 12,
+        "nombre": "El Senor de los Anillos 2: Las Dos Torres",
+        "genero": "Fantasia epica",
+        "anio_publicacion": "1954",
+        "autor": "J.R.R. Tolkien"
+    },
+    {
+        "codigo": 13,
+        "nombre": "El Senor de los Anillos 3: El Retorno del Rey",
+        "genero": "Fantasia epica",
+        "anio_publicacion": "1955",
+        "autor": "J.R.R. Tolkien"
+    },
+    {
+        "codigo": 14,
+        "nombre": "El Silmarillion",
+        "genero": "Fantasia",
+        "anio_publicacion": "1977",
+        "autor": "J.R.R. Tolkien"
+    },
+    {
+        "codigo": 15,
+        "nombre": "Cuentos inconclusos de Numenor y la Tierra Media",
+        "genero": "Fantasia",
+        "anio_publicacion": "1980",
+        "autor": "J.R.R. Tolkien"
+    },
+    {
+        "codigo": 16,
+        "nombre": "Crimen y castigo",
+        "genero": "Novela psicologica",
+        "anio_publicacion": "1866",
+        "autor": "Fyodor Dostoevsky"
+    },
+    {
+        "codigo": 17,
+        "nombre": "Sapiens: De animales a dioses",
+        "genero": "Ensayo historico",
+        "anio_publicacion": "2011",
+        "autor": "Yuval Noah Harari"
+    },
+    {
+        "codigo": 18,
+        "nombre": "Matar a un ruise\u00f1or",
+        "genero": "Ficcion literaria",
+        "anio_publicacion": "1960",
+        "autor": "Harper Lee"
+    },
+    {
+        "codigo": 19,
+        "nombre": "El nombre del viento",
+        "genero": "Fantasia",
+        "anio_publicacion": "2007",
+        "autor": "Patrick Rothfuss"
+    },
+    {
+        "codigo": 20,
+        "nombre": "La sombra del viento",
+        "genero": "Novela historica",
+        "anio_publicacion": "2001",
+        "autor": "Carlos Ruiz Zafon"
+    },
+    {
+        "codigo": 21,
+        "nombre": "uuuuuuu",
+        "genero": "Novela historica",
+        "anio_publicacion": "2005",
+        "autor": "Markus Zusak"
+    },
+    {
+        "codigo": 22,
+        "nombre": "Norwegian Wood",
+        "genero": "Ficcion contemporanea",
+        "anio_publicacion": "1987",
+        "autor": "Haruki Murakami"
+    },
+    {
+        "codigo": 23,
+        "nombre": "Breve historia del tiempo",
+        "genero": "Divulgacion cientifica",
+        "anio_publicacion": "1988",
+        "autor": "Stephen Hawking"
+    },
+    {
+        "codigo": 24,
+        "nombre": "El perfume: Historia de un asesino",
+        "genero": "Novela historica",
+        "anio_publicacion": "1985",
+        "autor": "Patrick Suskind"
+    },
+    {
+        "codigo": 25,
+        "nombre": "La metamorfosis",
+        "genero": "Ficcion surrealista",
+        "anio_publicacion": "1915",
+        "autor": "Franz Kafka"
+    },
+    {
+        "codigo": 26,
+        "nombre": "El alquimista",
+        "genero": "Novela de desarrollo personal",
+        "anio_publicacion": "1988",
+        "autor": "Paulo Coelho"
+    },
+    {
+        "codigo": 27,
+        "nombre": "Los juegos del hambre",
+        "genero": "Ciencia ficcion distopica",
+        "anio_publicacion": "2008",
+        "autor": "Suzanne Collins"
+    },
+    {
+        "codigo": 28,
+        "nombre": "El retrato de Dorian Gray",
+        "genero": "Novela gotica",
+        "anio_publicacion": "1890",
+        "autor": "Oscar Wilde"
+    },
+    {
+        "codigo": 29,
+        "nombre": "Anna Karenina",
+        "genero": "Novela realista",
+        "anio_publicacion": "1877",
+        "autor": "Leo Tolstoy"
+    },
+    {
+        "codigo": 30,
+        "nombre": "El principito",
+        "genero": "Literatura infantil",
+        "anio_publicacion": "1943",
+        "autor": "Antoine de Saint-Exupery"
+    },
+    {
+        "codigo": 31,
+        "nombre": "La casa de papel",
+        "genero": "Fantasia",
+        "anio_publicacion": 1990,
+        "autor": "Arturo"
+    }
+]
